@@ -1,0 +1,16 @@
+label{
+    color: white;
+    margin: 75px auto 2px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 7rem;
+    margin: auto;
+    max-width: 600px;
+    padding: 50px 18px;
+    font-size: 1.2 rem;
+}
+form .btn{
+    background-color: black;
+}

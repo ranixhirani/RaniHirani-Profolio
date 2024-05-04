@@ -1,0 +1,98 @@
+/* HeroImgStyles.css */
+.hero {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+
+.mask {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+.intro-img {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.mask::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: black;
+  opacity: 0.2;
+}
+
+.content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 30px 0;
+}
+
+.content .intro-text {
+  margin-bottom: 20px;
+}
+
+.content .intro-text p {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin: 0;
+  text-shadow: 0px 4px 4px #282828;
+}
+
+.my-name {
+  color: black;
+  text-shadow: 0px 4px 4px #282828;
+}
+
+#element {
+  color: #0c0b0b;
+}
+
+.buttons {
+  margin-top: 1rem;
+}
+
+.buttons .btn {
+  margin: 0.2rem;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 0.5rem;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.btn {
+  background-color: rgba(30, 8, 65, 0.9);
+  color: rgb(237, 235, 239);
+}
+
+.btn-github {
+  background-color: transparent;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(30, 8, 65, 0.9);
+}
+/* HeroImgStyles.css */
+.animated-text {
+  font-size: 4rem; /* Adjust size as needed */
+  /* Add any additional styles as needed */
+  text-shadow: 0px 4px 50px #282828;
+  font-weight: bold;
+  text-shadow: #0c0b0b;
+  color: white;
+}

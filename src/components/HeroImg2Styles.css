@@ -1,0 +1,39 @@
+/* Import the image */
+.hero-img {
+    width: 100%;
+    /*background-color: rgb(14, 1, 19);*/
+    height: 95%;
+    position: relative;
+}
+
+.hero-img::before {
+    content: "";
+    background-image: url('../assets/girl.jpg'); /* Use the imported image */
+    
+    background-size: cover;
+    background-position: center top;
+    height: 140%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    /* Log the URL */
+    /*content: url('../assets/xyz.jpeg');*/
+}
+
+.heading {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hero-img{
+    font-size: 2rem;
+}
+.hero-img p{
+    font-size: 1.4rem;
+    text-align: center;
+}
