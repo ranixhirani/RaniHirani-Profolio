@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RaniHirani-Profolio/static/css/main.d3d4fc6b.css",
-    "main.js": "/RaniHirani-Profolio/static/js/main.1df493b5.js",
+    "main.js": "/RaniHirani-Profolio/static/js/main.20c3fe02.js",
     "static/js/453.83234151.chunk.js": "/RaniHirani-Profolio/static/js/453.83234151.chunk.js",
     "static/media/project1.png": "/RaniHirani-Profolio/static/media/project1.dcd89ef6fb1ce68f893f.png",
     "static/media/project2.png": "/RaniHirani-Profolio/static/media/project2.be314969f042e6c51d17.png",
@@ -12,11 +12,11 @@
     "static/media/ranihirani-resume.pdf": "/RaniHirani-Profolio/static/media/ranihirani-resume.8f1d998226a7e320daf5.pdf",
     "index.html": "/RaniHirani-Profolio/index.html",
     "main.d3d4fc6b.css.map": "/RaniHirani-Profolio/static/css/main.d3d4fc6b.css.map",
-    "main.1df493b5.js.map": "/RaniHirani-Profolio/static/js/main.1df493b5.js.map",
+    "main.20c3fe02.js.map": "/RaniHirani-Profolio/static/js/main.20c3fe02.js.map",
     "453.83234151.chunk.js.map": "/RaniHirani-Profolio/static/js/453.83234151.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3d4fc6b.css",
-    "static/js/main.1df493b5.js"
+    "static/js/main.20c3fe02.js"
   ]
 }
