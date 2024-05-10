@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/RaniHirani-Profolio/static/css/main.d3d4fc6b.css",
-    "main.js": "/RaniHirani-Profolio/static/js/main.1df493b5.js",
-    "static/js/453.83234151.chunk.js": "/RaniHirani-Profolio/static/js/453.83234151.chunk.js",
-    "static/media/project1.png": "/RaniHirani-Profolio/static/media/project1.dcd89ef6fb1ce68f893f.png",
-    "static/media/project2.png": "/RaniHirani-Profolio/static/media/project2.be314969f042e6c51d17.png",
-    "static/media/project3.png": "/RaniHirani-Profolio/static/media/project3.eb91650af4489ed9b223.png",
-    "static/media/girl.jpg": "/RaniHirani-Profolio/static/media/girl.dde2046709b378cf599c.jpg",
-    "static/media/project4.png": "/RaniHirani-Profolio/static/media/project4.35b26166172d599a4af5.png",
-    "static/media/dark.jpg": "/RaniHirani-Profolio/static/media/dark.7609f5d8535a3479bac5.jpg",
-    "static/media/ranihirani-resume.pdf": "/RaniHirani-Profolio/static/media/ranihirani-resume.8f1d998226a7e320daf5.pdf",
-    "index.html": "/RaniHirani-Profolio/index.html",
-    "main.d3d4fc6b.css.map": "/RaniHirani-Profolio/static/css/main.d3d4fc6b.css.map",
-    "main.1df493b5.js.map": "/RaniHirani-Profolio/static/js/main.1df493b5.js.map",
-    "453.83234151.chunk.js.map": "/RaniHirani-Profolio/static/js/453.83234151.chunk.js.map"
+    "main.css": "/static/css/main.f9493381.css",
+    "main.js": "/static/js/main.d7895ce6.js",
+    "static/js/453.83234151.chunk.js": "/static/js/453.83234151.chunk.js",
+    "static/media/project1.png": "/static/media/project1.dcd89ef6fb1ce68f893f.png",
+    "static/media/project2.png": "/static/media/project2.be314969f042e6c51d17.png",
+    "static/media/project3.png": "/static/media/project3.eb91650af4489ed9b223.png",
+    "static/media/girl.jpg": "/static/media/girl.dde2046709b378cf599c.jpg",
+    "static/media/project4.png": "/static/media/project4.35b26166172d599a4af5.png",
+    "static/media/dark.jpg": "/static/media/dark.7609f5d8535a3479bac5.jpg",
+    "static/media/ranihirani-resume.pdf": "/static/media/ranihirani-resume.8f1d998226a7e320daf5.pdf",
+    "index.html": "/index.html",
+    "main.f9493381.css.map": "/static/css/main.f9493381.css.map",
+    "main.d7895ce6.js.map": "/static/js/main.d7895ce6.js.map",
+    "453.83234151.chunk.js.map": "/static/js/453.83234151.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3d4fc6b.css",
-    "static/js/main.1df493b5.js"
+    "static/css/main.f9493381.css",
+    "static/js/main.d7895ce6.js"
   ]
 }
